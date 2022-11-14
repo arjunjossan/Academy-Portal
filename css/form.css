@@ -1,0 +1,96 @@
+.voddy{
+	float: right;
+	margin-right: 100px;
+	margin-top: 50px;
+	border-style: double;
+	//background-position: right;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	background-color: skyblue;
+	border-radius: 10px;
+}
+.reg{
+	float: left;
+	width: 600px;
+	height: 505px;
+	margin-top: 50px;
+	margin-left: 40px;
+	border-style: groove;
+	border-radius: 10px;
+	background-repeat: no-repeat;
+}
+.body{
+	background-image: url("fom.JPG");
+
+}
+
+.formlogo{
+	width: 135px;
+	height: 100px;
+	float: left;
+	margin-top: 10px;
+}
+.formnav{
+	width: 800px;
+	height: 150px;
+	margin-left: 50px;
+	margin-top: 10px;
+}
+
+.formlogout{
+	float: right;
+	margin-top: 20px;
+	margin-right: 20px;
+	text-decoration: none;
+	font-size: 15px;
+	background-color: darkred;
+	color: white;
+	padding: 5px;
+	border-radius: 5px;
+	padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.k1{
+	margin-left: 53px;
+
+}
+.k2{
+	margin-left: 55px;
+	
+}
+.k3{
+	margin-left: 40px;
+	
+}
+.k4{
+	margin-left: 28px;
+	
+}
+.k5{
+	margin-left: 97px;
+	
+}
+
+.k6{
+	margin-left: 92px;
+	
+}
+.k7{
+	margin-left: 19px;
+	10
+}
+.k8{
+	margin-left: 41px;
+	
+}
+.k9{
+	margin-left: 33px;
+	
+}
+.k10{
+	margin-left: 102px;
+	
+}

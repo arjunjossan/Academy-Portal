@@ -1,0 +1,182 @@
+#voddy{
+	background-image: url("conn.JPEG");
+
+}
+
+.logopart{
+	background-color:red;
+}
+
+.logo{
+	width: 150px;
+	height: 100px;
+	margin: 10px;
+	border-radius: 0px;
+}
+
+.name11{
+	float: right;
+	margin-right: 400px;
+	font-size: 30px;
+	font-style: oblique;
+	
+	}
+
+.buttons{
+	margin: 10px;
+	margin-top: 35px;
+}
+
+.buttons1{
+	margin-left: 470px;
+
+}
+
+.buttons11{
+	border-radius: 10px;
+	padding:20px;
+	color: white;
+	font-style: !important;
+	background-color: dimgrey;
+	text-decoration: none;
+	margin: 10px;
+}
+
+.c1{
+	font-size: 50px;
+	color: green;
+	font-weight: bold;
+	font-style: normal;
+	//font-display: fallback;
+}
+
+.c2{
+	font-size: 30px;
+	color: blue;
+	font-weight: bold;
+	font-style: oblique;
+	//font-display: fallback;
+}
+
+.c3{
+	font-size: 20px;
+	color: darkcyan;
+	font-weight: bold;
+	font-style: !important;
+	
+}
+
+.c3 a{
+	text-decoration: none;
+	font-size: 20px;
+	color: darkcyan;
+	font-weight: bold;
+	font-style: !important;
+	//font-display: fallback;
+}
+
+.f{
+	background-color: cyan;
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right: 0px;
+	padding-bottom: 5px;
+	width: 50%;
+	border-style: double;
+	float: left;
+}
+.f1{
+    font-size: 20px;
+	color: dimgrey;
+	font-weight: bold;
+	font-style: !important;
+	//font-display: fallback;
+}
+
+.f2{
+	margin-left: 450px;
+	margin-top: 20px;
+    font-size: 20px;
+	color: indianred;
+	font-weight: bold;
+	font-style: !important;
+	//font-display: fallback;
+}
+.ff{
+	margin-left: 65px;
+
+}
+.fg{
+	margin-left: 69px;
+
+}
+
+.img1{
+	width: 47%;
+	float: right;
+}
+.img11{
+	width: 430px;
+	height: 430px;
+	margin-left: 120px;
+	border-radius: 450px;
+}
+
+.mailpic{
+width: 97%;
+height: 300px;
+border-style: dashed;
+padding: 5px;
+
+	
+}
+
+.email11{
+	margin-top: 10px;
+	font-size: 45px;
+	color: red;
+	font-weight: bold;
+	font-style: !important;
+		
+}
+.emaila{
+	text-decoration: none;
+	font-size: 22px;
+	color:  green;
+	font-weight: bold;
+	font-style: !important;
+
+}
+.email111{
+	text-decoration: none;
+	font-size: 20px;
+	color: blue;
+	font-weight: bold;
+	font-style: !important;
+
+}
+.calls{
+	float: left;
+}
+
+.call{
+	font-size: 40px;
+	color: red;
+	font-weight: bold;
+	font-style: oblique;
+
+}
+.call1{
+	font-size: 20px;
+	color: steelblue;
+	font-weight: bold;
+	font-style: !important;
+
+}
+.numberpic{
+	margin-right: 50px;
+       float: right;
+       width: 40%;
+       height: 500px;
+       border-radius: 450px;
+}

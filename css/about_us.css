@@ -1,0 +1,60 @@
+body{
+	background-color: blanchedalmond;
+}
+
+.logopart{
+	background-color:red;
+}
+
+.logo{
+	width: 150px;
+	height: 100px;
+	margin: 10px;
+	border-radius: 0px;
+}
+
+.name11{
+	float: right;
+	margin-right: 400px;
+	font-size: 30px;
+	font-style: oblique;
+	
+	}
+
+.buttons{
+	margin: 10px;
+	margin-top: 35px;
+}
+
+.buttons1{
+	margin-left: 470px;
+
+}
+
+.buttons11{
+	border-radius: 10px;
+	padding:20px;
+	color: white;
+	font-style: !important;
+	background-color: dimgrey;
+	text-decoration: none;
+	margin: 10px;
+}
+
+.about1{
+	font-size: 25px;
+	font-weight: bolder;
+	color: red;
+
+}
+.about2{
+	font-weight: bolder;
+	color: solidblack;
+
+}
+.about3{
+	color: darkblue;
+	font-weight: bolder;
+	font-size: 20px;
+	font-style: italic;
+}
